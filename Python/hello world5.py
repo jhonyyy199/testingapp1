@@ -1,1 +1,1 @@
-print("new page for python 2")
+print("my name is EKA")
