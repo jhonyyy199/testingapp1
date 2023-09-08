@@ -1,0 +1,1 @@
+print("new page for python 2")
