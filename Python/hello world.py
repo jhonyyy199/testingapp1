@@ -1,3 +1,3 @@
-print("dev pass")
-print("dev pass 2")
+print("development pass")
+print("development pass 2")
 
